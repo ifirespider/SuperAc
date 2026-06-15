@@ -10,7 +10,7 @@ const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
   title: `Acsweet Jewelry`,
-  ogTitle: sitesloganName,
+  ogTitle: `Fine Jewelry. For Every Style. For Every Budget`,
   description: description,
   ogDescription: shortDescription,
   ogImage: siteImage,
