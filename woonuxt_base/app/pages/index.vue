@@ -9,8 +9,8 @@ const { data: productData } = await useAsyncGql('getProducts', { first: 5, order
 const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
-  title: `Home`,
-  ogTitle: siteName,
+  title: `Acsweet Jewelry`,
+  ogTitle: sitesloganName,
   description: description,
   ogDescription: shortDescription,
   ogImage: siteImage,
@@ -46,7 +46,7 @@ useSeoMeta({
         <img src="/icons/box.svg" width="60" height="60" alt="Free Shipping" loading="lazy" />
         <div>
           <h3 class="text-xl font-semibold">Free Shipping</h3>
-          <p class="text-sm">Free shipping on order over €50</p>
+          <p class="text-sm">Free shipping on order over $15</p>
         </div>
       </div>
       <div class="flex items-center gap-8 p-8 bg-white rounded-lg">

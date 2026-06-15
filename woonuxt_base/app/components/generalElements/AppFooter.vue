@@ -16,12 +16,10 @@ const { wishlistLink } = useAuth();
       <div class="w-[42.857%] lg:w-auto">
         <div class="mb-1 font-semibold text-gray-900">{{ $t('general.information') }}</div>
         <div class="text-sm text-gray-700">
-          <a class="py-1.5 block" href="https://github.com/scottyzen/woonuxt?tab=readme-ov-file#next-generation-front-end-for-woocommerce" target="_blank">{{
+          <a class="py-1.5 block" href="/about" target="_blank">{{
             $t('general.about')
           }}</a>
-          <a href="/" class="py-1.5 block">{{ $t('general.careers') }}</a>
-          <a href="/" class="py-1.5 block">{{ $t('general.press') }}</a>
-          <a href="https://woonuxt.com/faq" class="py-1.5 block" rel="noreferrer" target="_blank">FAQ's</a>
+          <a href="/faq" class="py-1.5 block" rel="noreferrer" target="_blank">FAQ's</a>
         </div>
       </div>
       <div class="w-[42.857%] lg:w-auto">
@@ -37,9 +35,9 @@ const { wishlistLink } = useAuth();
         <div class="mb-1 font-semibold text-gray-900">{{ $t('general.customerService') }}</div>
         <div class="text-sm text-gray-700">
           <NuxtLink to="/contact" class="py-1.5 block">{{ $t('general.contactUs') }}</NuxtLink>
-          <a href="/" class="py-1.5 block">{{ $t('general.shippingReturns') }}</a>
-          <a href="/" class="py-1.5 block">{{ $t('general.privacyPolicy') }}</a>
-          <a href="/" class="py-1.5 block">{{ $t('general.termsConditions') }}</a>
+          <a href="/shipping-returns" class="py-1.5 block">{{ $t('general.shippingReturns') }}</a>
+          <a href="/privacy-policy" class="py-1.5 block">{{ $t('general.privacyPolicy') }}</a>
+          <a href="/terms-conditions" class="py-1.5 block">{{ $t('general.termsConditions') }}</a>
         </div>
       </div>
       <div class="w-[42.857%] lg:w-auto">
@@ -55,8 +53,7 @@ const { wishlistLink } = useAuth();
     <div class="container border-t border-gray-200 flex items-center justify-center mb-4">
       <div class="copywrite">
         <p class="py-4 text-xs text-center text-gray-600">
-          <a href="https://woonuxt.com" :title="`WooNuxt v${wooNuxtVersionInfo}`">{{ `WooNuxt v${wooNuxtVersionInfo}` }}</a> - by
-          <a href="https://scottyzen.com" title="Scott Kennedy - Web Developer" target="_blank">Scott Kennedy</a>
+         © 2026 <a href="https://www.acsweetjewelry.com/">Acsweet Jewelry</a>. All rights reserved.
         </p>
       </div>
       <SocialIcons class="ml-auto" />
