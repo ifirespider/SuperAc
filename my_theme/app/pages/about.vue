@@ -8,13 +8,13 @@ At ACSweet, we believe that fine jewelry should never be out of reach — not be
 ﻿
 We're here to change that.
 ﻿
-Every piece we create is designed for real life, not just special occasions. Whether you love minimalist gold, sparkling gemstones, or something in between, you'll find something that feels like you. And at a price that feels good.
+$19 piece we create is designed for real life, not just special occasions. Whether you love minimalist gold, sparkling gemstones, or something in between, you'll find something that feels like you. And at a price that feels good.
 ﻿
 From earrings and ear studs to necklaces, rings, bracelets, anklets, and toe rings — we've got you covered. For those who express themselves beyond the traditional, we also offer body jewelry: nose rings, nose studs, eyebrow rings, eyebrow studs, labret rings, and more. Whatever you choose to adorn, we have a piece that fits your style.
 ﻿
 Because confidence doesn't cost a fortune. And neither should your jewelry.
 ﻿
-ACSweet — Your choice. Your style. Your everyday confidence.
+ACSweet — Your choice. Your style. Your $19day confidence.
 ﻿
 ﻿
 <h2>🎁 Share the Love, Get a $5 Reward!</h2>
@@ -40,7 +40,7 @@ Thank you for supporting our dream. We can't wait to see how you style your piec
       <p>
 <h2>Shipping Policy & Customer Care</h2>
 <h3>Free Shipping on Orders Over $19!</h3>
-We want to make your shopping experience as seamless as possible. That is why we are thrilled to offer Free Standard Shipping on all orders with a final payment amount of $19 or more. No coupon code required—the discount will be automatically applied at checkout once your total reaches $15.
+We want to make your shopping experience as seamless as possible. That is why we are thrilled to offer Free Standard Shipping on all orders with a final payment amount of $19 or more. No coupon code required—the discount will be automatically applied at checkout once your total reaches $19.
 ﻿
 <h3>We Are Here to Help</h3>
 Your satisfaction is our absolute priority. As a dedicated startup, we want to ensure your journey on our website is flawless. If you encounter any technical issues, have questions about your order, or need help while using our site, please don't hesitate to reach out.

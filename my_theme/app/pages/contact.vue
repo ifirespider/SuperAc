@@ -44,8 +44,8 @@ Thank you for supporting our dream. We can't wait to see how you style your piec
       </p>
       <p>
 <h2>Shipping Policy & Customer Care</h2>
-<h3>Free Shipping on Orders Over $15!</h3>
-We want to make your shopping experience as seamless as possible. That is why we are thrilled to offer Free Standard Shipping on all orders with a final payment amount of $15 or more. No coupon code required—the discount will be automatically applied at checkout once your total reaches $15.
+<h3>Free Shipping on Orders Over $19!</h3>
+We want to make your shopping experience as seamless as possible. That is why we are thrilled to offer Free Standard Shipping on all orders with a final payment amount of $19 or more. No coupon code required—the discount will be automatically applied at checkout once your total reaches $19.
 ﻿
 <h3>We Are Here to Help</h3>
 Your satisfaction is our absolute priority. As a dedicated startup, we want to ensure your journey on our website is flawless. If you encounter any technical issues, have questions about your order, or need help while using our site, please don't hesitate to reach out.
