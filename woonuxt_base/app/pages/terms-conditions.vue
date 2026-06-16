@@ -34,7 +34,7 @@
 
 <h3>5. Shipping & Delivery</h3>
 
-<p>Please refer to our <a href="/shipping-returns">Shipping & Returns Policy</a> for detailed information about processing times, shipping options, and delivery estimates. Currently, we ship to all 50 United States. Processing time is 1–3 business days. Standard shipping is free on orders over $15.</p>
+<p>Please refer to our <a href="/shipping-returns">Shipping & Returns Policy</a> for detailed information about processing times, shipping options, and delivery estimates. Currently, we ship to all 50 United States. Processing time is 1–3 business days. Standard shipping is free on orders over $19.</p>
 
 <p>Delivery times are estimates and not guaranteed. We are not responsible for delays caused by carriers, weather, or other circumstances beyond our control.</p>
 
@@ -87,7 +87,7 @@
 
 <p>Your use of our website is also governed by our <a href="/privacy-policy">Privacy Policy</a>. Please review it to understand how we collect, use, and protect your personal information.</p>
 
-<h3>15. Governing Law & Dispute Resolution</h3>
+<h3>19. Governing Law & Dispute Resolution</h3>
 
 <p>These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions. Any dispute arising out of or relating to these Terms or your use of our website shall be resolved through binding arbitration in Los Angeles, California, in accordance with the rules of the American Arbitration Association. You agree to waive any right to participate in a class action or class-wide arbitration.</p>
 

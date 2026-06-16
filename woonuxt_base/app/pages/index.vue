@@ -28,7 +28,7 @@ useSeoMeta({
       <img src="/images/logoipsum-225.svg" alt="Brand 3" width="49" height="48" />
       <img src="/images/logoipsum-280.svg" alt="Brand 4" width="78" height="30" />
       <img src="/images/logoipsum-284.svg" alt="Brand 5" width="70" height="44" />
-      <img src="/images/logoipsum-215.svg" alt="Brand 6" width="132" height="40" />
+      <img src="/images/logoipsum-219.svg" alt="Brand 6" width="132" height="40" />
     </div>
 
     <section class="container my-16">
@@ -46,7 +46,7 @@ useSeoMeta({
         <img src="/icons/box.svg" width="60" height="60" alt="Free Shipping" loading="lazy" />
         <div>
           <h3 class="text-xl font-semibold">Free Shipping</h3>
-          <p class="text-sm">Free shipping on order over $15</p>
+          <p class="text-sm">Free shipping on order over $19</p>
         </div>
       </div>
       <div class="flex items-center gap-8 p-8 bg-white rounded-lg">

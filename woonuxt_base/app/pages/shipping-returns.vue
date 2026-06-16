@@ -13,7 +13,7 @@
 <p><strong>Processing time:</strong> Orders are processed within 1–3 business days. We are actively working to optimize this speed and get your jewelry to you even faster. You will receive a confirmation email with tracking information once your order ships.</p>
 
 <p><strong>Shipping options & delivery times:</strong></p>
-<p>- Standard Shipping (5–7 business days): Free on orders over $15, otherwise $4.99</p>
+<p>- Standard Shipping (5–7 business days): Free on orders over $19, otherwise $4.99</p>
 
 <p><strong>Order tracking:</strong> Once shipped, you'll receive a tracking number via email. You can also track your order from your account dashboard.</p>
 
