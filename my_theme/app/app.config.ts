@@ -5,7 +5,7 @@
  */
 export default defineAppConfig({
   siteName: 'Acsweet Jewelry',
-  sitesloganName:"Fine Jewelry. For Every Style. For Every Budget",
+  ogTitle: `Fine Jewelry. For Every Style. For Every Budget`,
   shortDescription: 'ACSweet Jewelry is an online fine jewelry store. It provides a modern, fast, and seamless shopping experience for stylish, confident women who believe affordable luxury should be part of every day.',
   description: `ACSweet Jewelry offers fine jewelry that blends fashion-forward design with everyday affordability. We believe confidence shouldn't cost a fortune — just a touch of elegance for the real you.`,
   baseUrl: 'https://www.acsweetjewelry.com',
