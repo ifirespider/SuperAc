@@ -84,6 +84,7 @@
   "shop": {
     "shopByCategory": "Shop by Category",
     "popularProducts": "Popular Products",
+	"newArrivals": "New Arrivals",
     "availability": "Availability",
     "inStock": "In Stock",
     "outOfStock": "Out of Stock",
