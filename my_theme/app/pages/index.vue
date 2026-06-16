@@ -9,7 +9,7 @@ const { data: productData } = await useAsyncGql('getProducts', { first: 5, order
 const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
-  title: `Fine Jewelry. For $19 Style. For $19 Budget`,
+  title: `Fine Jewelry. For Every Style. For Every Budget`,
   ogTitle: siteName,
   description: description,
   ogDescription: shortDescription,
