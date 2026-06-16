@@ -5,7 +5,7 @@ const { siteName, description, shortDescription, siteImage } = useAppConfig();
 const { data } = await useAsyncGql('getProductCategories', { first: 6 });
 const productCategories = data.value?.productCategories?.nodes || [];
 
-const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: ProductsOrderByEnum.Date });
+const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: ProductsOrderByEnum.Popularity });
 const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
@@ -63,12 +63,12 @@ useSeoMeta({
       </div>
     </section>
 
-    <section v-if="latestProducts" class="container my-16">
+    <section v-if="popularProducts" class="container my-16">
       <div class="flex items-end justify-between">
-        <h2 class="text-lg font-semibold md:text-2xl">{{ $t('shop.newArrivals') }}</h2>
+        <h2 class="text-lg font-semibold md:text-2xl">{{ $t('shop.popularProducts') }}</h2>
         <NuxtLink class="font-medium text-primary-dark" to="/products">{{ $t('general.viewAll') }}</NuxtLink>
       </div>
-      <ProductRow :products="latestProducts" class="grid-cols-2 md:grid-cols-4 lg:grid-cols-5 mt-8" />
+      <ProductRow :products="popularProducts" class="grid-cols-2 md:grid-cols-4 lg:grid-cols-5 mt-8" />
     </section>
   </main>
 </template>
