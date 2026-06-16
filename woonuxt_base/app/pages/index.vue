@@ -1,11 +1,11 @@
 <script lang="ts" setup>
-import { ProductsOrderByDate } from '#gql/default';
+import { ProductsOrderByEnum } from '#gql/default';
 const { siteName, description, shortDescription, siteImage } = useAppConfig();
 
 const { data } = await useAsyncGql('getProductCategories', { first: 6 });
 const productCategories = data.value?.productCategories?.nodes || [];
 
-const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: ProductsOrderByDate.Popularity });
+const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: ProductsOrderByEnum.Date });
 const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
