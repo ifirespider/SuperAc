@@ -1,8 +1,10 @@
 export default defineNuxtConfig({
   // Get all the pages, components, composables and plugins from the parent theme
   extends: ['./woonuxt_base'],
-  modules: ['@vercel/analytics'],
-  devtools: { enabled: false },
+  modules: ['nuxt-gtag'],
+  gtag: {
+    id: 'G-NL9HZRKCS4' // ⬅️ 这里换成你在 Google Analytics 后台申请到的真实 ID
+  },
   components: [{ path: './components', pathPrefix: false }],
   /**
    * Depending on your servers capabilities, you may need to adjust the following settings.
