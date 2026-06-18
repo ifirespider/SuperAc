@@ -4,8 +4,7 @@ const { siteName, description, shortDescription, siteImage } = useAppConfig();
 
 const { data } = await useAsyncGql('getProductCategories', { first: 6 });
 const productCategories = data.value?.productCategories?.nodes || [];
-
-const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: ProductsOrderByEnum.Popularity });
+const { data: productData } = await useAsyncGql('getProducts', { first: 5, orderby: [{ field: 'DATE', order: 'DESC' }] });
 const popularProducts = productData.value?.products?.nodes || [];
 
 useSeoMeta({
