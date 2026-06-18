@@ -1,5 +1,6 @@
 export default defineNuxtConfig({
   // Get all the pages, components, composables and plugins from the parent theme
+  devtools: { enabled: false },
   extends: ['./woonuxt_base'],
   modules: ['nuxt-gtag'],
   gtag: {
