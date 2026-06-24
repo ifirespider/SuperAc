@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     id: 'G-NL9HZRKCS4' // ⬅️ 这里换成你在 Google Analytics 后台申请到的真实 ID
   },
   components: [{ path: './components', pathPrefix: false }],
+  modules: ['@vercel/analytics'],
   /**
    * Depending on your servers capabilities, you may need to adjust the following settings.
    * It will affect the build time but also increase the reliability of the build process.
