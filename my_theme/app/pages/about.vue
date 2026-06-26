@@ -8,13 +8,13 @@ At ACSweet, we believe that fine jewelry should never be out of reach — not be
 ﻿
 We're here to change that.
 ﻿
-$19 piece we create is designed for real life, not just special occasions. Whether you love minimalist gold, sparkling gemstones, or something in between, you'll find something that feels like you. And at a price that feels good.
+Every piece we create is designed for real life, not just special occasions. Whether you love minimalist gold, sparkling gemstones, or something in between, you'll find something that feels like you. And at a price that feels good.
 ﻿
 From earrings and ear studs to necklaces, rings, bracelets, anklets, and toe rings — we've got you covered. For those who express themselves beyond the traditional, we also offer body jewelry: nose rings, nose studs, eyebrow rings, eyebrow studs, labret rings, and more. Whatever you choose to adorn, we have a piece that fits your style.
 ﻿
 Because confidence doesn't cost a fortune. And neither should your jewelry.
 ﻿
-ACSweet — Your choice. Your style. Your $19day confidence.
+ACSweet — Your choice. Your style. Your everyday confidence.
 ﻿
 ﻿
 <h2>🎁 Share the Love, Get a $5 Reward!</h2>

@@ -24,7 +24,7 @@
 <p>We currently ship to all 50 United States, including P.O. boxes and APO/FPO addresses. International shipping is coming soon — stay tuned!</p>
 
 <p><strong>How much does shipping cost?</strong></p>
-<p>Standard shipping is free on all orders over $19. For orders under $19, standard shipping is $4.99.</p>
+<p>Standard shipping is free on all orders over $15. For orders under $15, standard shipping is $4.99.</p>
 
 <p><strong>How long does it take to process and ship my order?</strong></p>
 <p>Processing takes 1–3 business days. We are actively working to optimize this speed and get your jewelry to you even faster. Delivery times after processing: standard shipping takes 5–7 business days.</p>

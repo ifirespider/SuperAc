@@ -87,7 +87,7 @@
 
 <p>Your use of our website is also governed by our <a href="/privacy-policy">Privacy Policy</a>. Please review it to understand how we collect, use, and protect your personal information.</p>
 
-<h3>15. Governing Law & Dispute Resolution</h3>
+<h3>19. Governing Law & Dispute Resolution</h3>
 
 <p>These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions. Any dispute arising out of or relating to these Terms or your use of our website shall be resolved through binding arbitration in Los Angeles, California, in accordance with the rules of the American Arbitration Association. You agree to waive any right to participate in a class action or class-wide arbitration.</p>
 

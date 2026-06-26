@@ -7,7 +7,11 @@ const { wishlistLink } = useAuth();
   <footer class="bg-white order-last">
     <div class="container flex flex-wrap justify-between gap-12 my-24 md:gap-24">
       <div class="mr-auto">
-        <Logo />
+        <template>
+  <NuxtLink to="/" class="inline-flex items-center gap-2">
+    <img src="/images/logo-black.svg" alt="Logo" class="object-contain h-10" />
+  </NuxtLink>
+</template>
         <WebsiteShortDescription />
         <div class="inline-flex gap-2 justify-start mt-8">
           <LangSwitcher />

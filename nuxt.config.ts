@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
   // Get all the pages, components, composables and plugins from the parent theme
   devtools: { enabled: false },
-  extends: ['./woonuxt_base'],
+  extends: ['./woonuxt_base', './my_theme'],
   modules: ['nuxt-gtag'],
   gtag: {
     id: 'G-NL9HZRKCS4' // ⬅️ 这里换成你在 Google Analytics 后台申请到的真实 ID
